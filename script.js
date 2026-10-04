@@ -80,7 +80,7 @@ function handleQuickInquiry(event) {
 const PACK_DATA = {
   multigrain: {
     title: 'मल्टीग्रेन आटा (Multigrain Flour) - ओरिजिनल पाउच',
-    img: 'images/pouch_multigrain_pack.png',
+    img: 'images/banner_packet.png',
     desc: 'प्रीमियम ब्लू स्टैंडअप जिपलॉक पाउच पैकिंग। 100% हाइजीनिक, एयरटाइट और नमी से सुरक्षित।',
     product: 'मल्टीग्रेन आटा (Multigrain Flour)'
   },
